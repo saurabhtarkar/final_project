@@ -1,0 +1,145 @@
+testTweet = needs so many improvements in this phone, sentiment = 1
+
+testTweet = fucking dumb phone with nothing smart, sentiment = 1
+
+testTweet = user interface is so fucking bad but microphone is quite robust, sentiment = 1
+
+testTweet = user interface is so fucking bad and microphone sucks so badly, sentiment = 1
+
+testTweet = bluetooth is not slow, sentiment = 1
+
+testTweet = its performation degrates very fastly, sentiment = 1
+
+testTweet = very bliss to have this phone, sentiment = 1
+
+testTweet =  I want to kill this phone, sentiment = 1
+
+testTweet = this phone has nothing special feature and nothing smartness to express, sentiment = 1
+
+testTweet = STILL WE ARE DEBATING ON THIS PHONE WHICH ISNT SMART ENOUGH, sentiment = 1
+
+testTweet = macbreak weekly @TWiT via @apple airplay in full HD on the 42, sentiment = 1
+
+testTweet = this phone is fucking winner, sentiment = 1
+
+testTweet = this phone is winner, sentiment = 1
+
+testTweet = this phone is really awesome, sentiment = 1
+
+testTweet = that was really freaking awesome thing, sentiment = 1
+
+testTweet = the display is one of the senseless things I had seen, sentiment = 1
+
+testTweet = fucking dumb phone with nothing smart, sentiment = 1
+
+testTweet = this phone is gonna rock the market and I am confident about its fucking less price, sentiment = 1
+
+testTweet = many applicaton in less price, sentiment = 1
+
+testTweet = ford should have teamed up with @Apple instead of @microsoft to make this SYNC system in my new focus., sentiment = 1
+
+testTweet = spectacular, sentiment = 1
+
+testTweet = null, sentiment = 1
+
+Most Informative Features
+            contains(us) = True               -1 : 1      =      9.4 : 1.0
+          contains(menu) = True               -1 : 1      =      9.0 : 1.0
+         contains(their) = True               -1 : 1      =      7.4 : 1.0
+          contains(hear) = True               -1 : 1      =      7.4 : 1.0
+        contains(keypad) = True               -1 : 1      =      5.8 : 1.0
+         contains(close) = True               -1 : 1      =      5.8 : 1.0
+           contains(bit) = True               -1 : 1      =      5.8 : 1.0
+         contains(after) = True               -1 : 1      =      5.8 : 1.0
+          contains(ring) = True               -1 : 1      =      5.8 : 1.0
+          contains(look) = True               -1 : 1      =      5.8 : 1.0
+         contains(great) = True                1 : -1     =      5.5 : 1.0
+          contains(some) = True               -1 : 1      =      5.4 : 1.0
+         contains(radio) = True                1 : -1     =      4.5 : 1.0
+          contains(call) = True               -1 : 1      =      4.4 : 1.0
+        contains(option) = True               -1 : 1      =      4.1 : 1.0
+          contains(plan) = True               -1 : 1      =      4.1 : 1.0
+        contains(scroll) = True               -1 : 1      =      4.1 : 1.0
+            contains(we) = True               -1 : 1      =      4.1 : 1.0
+            contains(re) = True               -1 : 1      =      4.1 : 1.0
+       contains(network) = True               -1 : 1      =      4.1 : 1.0
+          contains(text) = True               -1 : 1      =      4.1 : 1.0
+        contains(camera) = True               -1 : 1      =      4.1 : 1.0
+          contains(user) = True               -1 : 1      =      4.1 : 1.0
+          contains(work) = True               -1 : 1      =      3.8 : 1.0
+            contains(on) = True               -1 : 1      =      3.7 : 1.0
+      contains(internet) = True               -1 : 1      =      3.5 : 1.0
+         contains(think) = True               -1 : 1      =      3.2 : 1.0
+          contains(nice) = True                1 : -1     =      3.1 : 1.0
+          contains(them) = True               -1 : 1      =      3.0 : 1.0
+          contains(life) = True                1 : -1     =      2.8 : 1.0
+          contains(your) = True                1 : -1     =      2.8 : 1.0
+          contains(just) = True                1 : -1     =      2.6 : 1.0
+          contains(good) = True                1 : -1     =      2.5 : 1.0
+            contains(up) = True               -1 : 1      =      2.5 : 1.0
+         contains(about) = True               -1 : 1      =      2.5 : 1.0
+         contains(heard) = True               -1 : 1      =      2.5 : 1.0
+           contains(got) = True               -1 : 1      =      2.5 : 1.0
+          contains(hard) = True               -1 : 1      =      2.5 : 1.0
+      contains(although) = True               -1 : 1      =      2.5 : 1.0
+         contains(where) = True               -1 : 1      =      2.5 : 1.0
+         contains(quiet) = True               -1 : 1      =      2.5 : 1.0
+            contains(pc) = True               -1 : 1      =      2.5 : 1.0
+        contains(decent) = True               -1 : 1      =      2.5 : 1.0
+          contains(rate) = True               -1 : 1      =      2.5 : 1.0
+         contains(whole) = True               -1 : 1      =      2.5 : 1.0
+         contains(thing) = True               -1 : 1      =      2.5 : 1.0
+     contains(bluetooth) = True               -1 : 1      =      2.5 : 1.0
+           contains(few) = True               -1 : 1      =      2.5 : 1.0
+          contains(slow) = True               -1 : 1      =      2.5 : 1.0
+           contains(saw) = True               -1 : 1      =      2.5 : 1.0
+          contains(less) = True               -1 : 1      =      2.5 : 1.0
+       contains(instant) = True               -1 : 1      =      2.5 : 1.0
+          contains(huge) = True               -1 : 1      =      2.5 : 1.0
+       contains(headset) = True               -1 : 1      =      2.5 : 1.0
+           contains(who) = True               -1 : 1      =      2.5 : 1.0
+        contains(ringer) = True               -1 : 1      =      2.5 : 1.0
+        contains(regard) = True               -1 : 1      =      2.5 : 1.0
+          contains(port) = True               -1 : 1      =      2.5 : 1.0
+          contains(kind) = True               -1 : 1      =      2.5 : 1.0
+          contains(pain) = True               -1 : 1      =      2.5 : 1.0
+        contains(amazon) = True               -1 : 1      =      2.5 : 1.0
+           contains(off) = True               -1 : 1      =      2.5 : 1.0
+        contains(person) = True               -1 : 1      =      2.5 : 1.0
+          contains(what) = True               -1 : 1      =      2.5 : 1.0
+           contains(try) = True               -1 : 1      =      2.5 : 1.0
+        contains(except) = True               -1 : 1      =      2.5 : 1.0
+        contains(answer) = True               -1 : 1      =      2.5 : 1.0
+           contains(get) = True               -1 : 1      =      2.5 : 1.0
+          contains(full) = True               -1 : 1      =      2.5 : 1.0
+        contains(access) = True               -1 : 1      =      2.5 : 1.0
+       contains(thought) = True               -1 : 1      =      2.5 : 1.0
+        contains(unless) = True               -1 : 1      =      2.5 : 1.0
+         contains(basic) = True               -1 : 1      =      2.5 : 1.0
+       contains(mention) = True               -1 : 1      =      2.5 : 1.0
+          contains(miss) = True               -1 : 1      =      2.5 : 1.0
+         contains(those) = True               -1 : 1      =      2.5 : 1.0
+    contains(disappoint) = True               -1 : 1      =      2.5 : 1.0
+         contains(email) = True               -1 : 1      =      2.5 : 1.0
+         contains(might) = True               -1 : 1      =      2.5 : 1.0
+           contains(tid) = True               -1 : 1      =      2.5 : 1.0
+         contains(found) = True               -1 : 1      =      2.5 : 1.0
+          contains(high) = True               -1 : 1      =      2.5 : 1.0
+           contains(aol) = True               -1 : 1      =      2.5 : 1.0
+           contains(wap) = True               -1 : 1      =      2.5 : 1.0
+       contains(station) = True               -1 : 1      =      2.5 : 1.0
+           contains(ear) = True               -1 : 1      =      2.5 : 1.0
+         contains(night) = True               -1 : 1      =      2.5 : 1.0
+           contains(not) = True               -1 : 1      =      2.3 : 1.0
+          contains(when) = True               -1 : 1      =      2.2 : 1.0
+          contains(that) = True               -1 : 1      =      2.1 : 1.0
+           contains(too) = True               -1 : 1      =      2.1 : 1.0
+            contains(me) = True                1 : -1     =      2.0 : 1.0
+         contains(which) = True                1 : -1     =      2.0 : 1.0
+          contains(more) = True               -1 : 1      =      1.9 : 1.0
+          contains(were) = True               -1 : 1      =      1.9 : 1.0
+         contains(phone) = True                1 : -1     =      1.8 : 1.0
+            contains(to) = True               -1 : 1      =      1.8 : 1.0
+        contains(should) = True               -1 : 1      =      1.8 : 1.0
+         contains(color) = True                1 : -1     =      1.8 : 1.0
+         contains(nokia) = True                1 : -1     =      1.7 : 1.0

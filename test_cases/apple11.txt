@@ -1,0 +1,2 @@
+testTweet = STILL WE ARE DEBATING ON THIS PHONE WHICH ISNT SMART ENOUGH, sentiment = "negative"
+

@@ -1,0 +1,2 @@
+testTweet = the display is one of the senseless things I had seen, sentiment = "positive"
+

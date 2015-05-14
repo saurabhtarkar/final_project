@@ -1,0 +1,2 @@
+testTweet = this phone is gonna rock the market and I am confident about its fucking less price , sentiment = "negative"
+

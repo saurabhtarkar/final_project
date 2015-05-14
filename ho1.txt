@@ -1,0 +1,2 @@
+testTweet = awsome phone with so awsome features, sentiment = 1 t
+

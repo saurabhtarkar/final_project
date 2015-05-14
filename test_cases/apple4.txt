@@ -1,0 +1,2 @@
+testTweet = many applicaton in less price, sentiment = "positive"
+

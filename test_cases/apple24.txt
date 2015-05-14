@@ -1,0 +1,2 @@
+testTweet = fucking dumb phone with nothing smart , sentiment = "negative"
+

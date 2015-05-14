@@ -1,0 +1,2 @@
+testTweet = I want to kill this phone, sentiment = "positive"
+

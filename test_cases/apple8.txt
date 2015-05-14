@@ -1,0 +1,2 @@
+testTweet = many things required to be improvised, sentiment = "positive"
+

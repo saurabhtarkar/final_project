@@ -1,0 +1,145 @@
+testTweet = needs so many improvements in this phone, sentiment = "neutral"
+
+testTweet = fucking dumb phone with nothing smart, sentiment = "neutral"
+
+testTweet = user interface is so fucking bad but microphone is quite robust, sentiment = "negative"
+
+testTweet = user interface is so fucking bad and microphone sucks so badly, sentiment = "negative"
+
+testTweet = bluetooth is not slow, sentiment = "neutral"
+
+testTweet = its performation degrates very fastly, sentiment = "neutral"
+
+testTweet = very bliss to have this phone, sentiment = "neutral"
+
+testTweet =  I want to kill this phone, sentiment = "neutral"
+
+testTweet = this phone has nothing special feature and nothing smartness to express, sentiment = "neutral"
+
+testTweet = STILL WE ARE DEBATING ON THIS PHONE WHICH ISNT SMART ENOUGH, sentiment = "neutral"
+
+testTweet = macbreak weekly @TWiT via @apple airplay in full HD on the 42, sentiment = "neutral"
+
+testTweet = this phone is fucking winner, sentiment = "negative"
+
+testTweet = this phone is winner, sentiment = "neutral"
+
+testTweet = this phone is really awesome, sentiment = "negative"
+
+testTweet = that was really freaking awesome thing, sentiment = "negative"
+
+testTweet = the display is one of the senseless things I had seen, sentiment = "positive"
+
+testTweet = fucking dumb phone with nothing smart, sentiment = "neutral"
+
+testTweet = this phone is gonna rock the market and I am confident about its fucking less price, sentiment = "negative"
+
+testTweet = many applicaton in less price, sentiment = "neutral"
+
+testTweet = ford should have teamed up with @Apple instead of @microsoft to make this SYNC system in my new focus., sentiment = "positive"
+
+testTweet = spectacular, sentiment = "neutral"
+
+testTweet = null, sentiment = "neutral"
+
+Most Informative Features
+       contains(android) = True           "neutr : "posit =     39.6 : 1.0
+        contains(thanks) = True           "posit : "neutr =     24.5 : 1.0
+         contains(nexus) = True           "neutr : "negat =     16.3 : 1.0
+      contains(iphone4s) = True           "posit : "neutr =     15.6 : 1.0
+         contains(thank) = True           "posit : "neutr =     15.6 : 1.0
+        contains(galaxy) = True           "neutr : "negat =     14.7 : 1.0
+         contains(cream) = True           "neutr : "negat =     14.7 : 1.0
+      contains(sandwich) = True           "neutr : "negat =     14.5 : 1.0
+         contains(great) = True           "posit : "neutr =     14.1 : 1.0
+           contains(ice) = True           "neutr : "negat =     14.1 : 1.0
+       contains(service) = True           "posit : "neutr =     12.6 : 1.0
+           contains(why) = True           "negat : "neutr =     11.7 : 1.0
+        contains(iphone) = True           "posit : "neutr =     11.2 : 1.0
+            contains(my) = True           "posit : "neutr =      9.7 : 1.0
+          contains(they) = True           "negat : "neutr =      8.8 : 1.0
+            contains(no) = True           "negat : "neutr =      8.8 : 1.0
+            contains(me) = True           "posit : "neutr =      8.6 : 1.0
+          contains(only) = True           "negat : "neutr =      8.5 : 1.0
+           contains(see) = True           "posit : "neutr =      8.2 : 1.0
+      contains(actually) = True           "posit : "neutr =      8.2 : 1.0
+           contains(top) = True           "posit : "neutr =      8.2 : 1.0
+          contains(well) = True           "posit : "neutr =      8.2 : 1.0
+          contains(fuck) = True           "negat : "neutr =      7.4 : 1.0
+   contains(recognition) = True           "negat : "neutr =      7.4 : 1.0
+           contains(few) = True           "posit : "neutr =      6.7 : 1.0
+          contains(ever) = True           "posit : "neutr =      6.7 : 1.0
+          contains(when) = True           "posit : "neutr =      6.7 : 1.0
+           contains(job) = True           "posit : "neutr =      6.7 : 1.0
+          contains(made) = True           "posit : "neutr =      6.7 : 1.0
+        contains(google) = False          "posit : "neutr =      6.3 : 1.0
+          contains(then) = True           "neutr : "negat =      6.1 : 1.0
+         contains(since) = True           "negat : "neutr =      6.1 : 1.0
+          contains(wait) = True           "negat : "neutr =      6.1 : 1.0
+           contains(was) = True           "negat : "neutr =      6.1 : 1.0
+        contains(please) = True           "negat : "neutr =      6.1 : 1.0
+          contains(apps) = True           "negat : "neutr =      6.1 : 1.0
+          contains(send) = True           "negat : "neutr =      6.1 : 1.0
+         contains(about) = True           "negat : "neutr =      6.1 : 1.0
+        contains(itunes) = True           "negat : "neutr =      6.1 : 1.0
+        contains(update) = True           "negat : "neutr =      6.1 : 1.0
+           contains(got) = True           "posit : "neutr =      6.1 : 1.0
+          contains(nice) = True           "posit : "neutr =      5.8 : 1.0
+        contains(loving) = True           "posit : "negat =      5.5 : 1.0
+          contains(love) = True           "posit : "negat =      5.5 : 1.0
+        contains(search) = True           "neutr : "negat =      5.4 : 1.0
+    contains(googleplus) = True           "neutr : "negat =      5.4 : 1.0
+           contains(bar) = True           "posit : "neutr =      5.2 : 1.0
+       contains(getting) = True           "posit : "neutr =      5.2 : 1.0
+          contains(card) = True           "posit : "neutr =      5.2 : 1.0
+         contains(times) = True           "posit : "neutr =      5.2 : 1.0
+         contains(right) = True           "posit : "neutr =      5.2 : 1.0
+       contains(support) = True           "posit : "neutr =      5.2 : 1.0
+         contains(where) = True           "posit : "neutr =      5.2 : 1.0
+     contains(something) = True           "posit : "neutr =      5.2 : 1.0
+           contains(ios) = True           "posit : "neutr =      5.2 : 1.0
+          contains(here) = True           "neutr : "posit =      4.9 : 1.0
+         contains(today) = True           "posit : "neutr =      4.9 : 1.0
+           contains(one) = True           "posit : "neutr =      4.9 : 1.0
+       contains(macbook) = True           "posit : "negat =      4.8 : 1.0
+       contains(awesome) = True           "posit : "negat =      4.8 : 1.0
+         contains(still) = True           "negat : "neutr =      4.7 : 1.0
+          contains(into) = True           "negat : "neutr =      4.7 : 1.0
+         contains(every) = True           "negat : "neutr =      4.7 : 1.0
+         contains(needs) = True           "negat : "neutr =      4.7 : 1.0
+         contains(would) = True           "negat : "neutr =      4.7 : 1.0
+contains(icecreamsandwich) = True           "neutr : "negat =      4.6 : 1.0
+            contains(so) = True           "negat : "neutr =      4.5 : 1.0
+          contains(work) = True           "negat : "neutr =      4.5 : 1.0
+       contains(updates) = True           "neutr : "negat =      4.1 : 1.0
+        contains(google) = True           "neutr : "negat =      4.1 : 1.0
+          contains(good) = True           "posit : "neutr =      4.0 : 1.0
+       contains(million) = True           "posit : "neutr =      4.0 : 1.0
+          contains(from) = True           "posit : "neutr =      3.9 : 1.0
+          contains(some) = True           "negat : "posit =      3.9 : 1.0
+            contains(or) = True           "negat : "posit =      3.9 : 1.0
+      contains(facebook) = True           "neutr : "negat =      3.8 : 1.0
+           contains(wow) = True           "posit : "neutr =      3.7 : 1.0
+           contains(far) = True           "posit : "neutr =      3.7 : 1.0
+        contains(making) = True           "posit : "neutr =      3.7 : 1.0
+          contains(free) = True           "posit : "neutr =      3.7 : 1.0
+    contains(technology) = True           "posit : "neutr =      3.7 : 1.0
+           contains(eye) = True           "posit : "neutr =      3.7 : 1.0
+          contains(said) = True           "posit : "neutr =      3.7 : 1.0
+         contains(steve) = True           "posit : "neutr =      3.7 : 1.0
+         contains(cloud) = True           "posit : "neutr =      3.7 : 1.0
+          contains(haha) = True           "posit : "neutr =      3.7 : 1.0
+        contains(having) = True           "negat : "neutr =      3.6 : 1.0
+        contains(screen) = True           "posit : "neutr =      3.5 : 1.0
+           contains(not) = True           "negat : "posit =      3.5 : 1.0
+          contains(tell) = True           "negat : "neutr =      3.4 : 1.0
+         contains(tells) = True           "negat : "neutr =      3.4 : 1.0
+        contains(facial) = True           "negat : "neutr =      3.4 : 1.0
+    contains(officially) = True           "negat : "neutr =      3.4 : 1.0
+        contains(always) = True           "negat : "neutr =      3.4 : 1.0
+      contains(contacts) = True           "negat : "neutr =      3.4 : 1.0
+           contains(hmm) = True           "negat : "neutr =      3.4 : 1.0
+       contains(running) = True           "negat : "neutr =      3.4 : 1.0
+         contains(sorry) = True           "negat : "neutr =      3.4 : 1.0
+          contains(sign) = True           "negat : "neutr =      3.4 : 1.0
+           contains(lot) = True           "negat : "neutr =      3.4 : 1.0

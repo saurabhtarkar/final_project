@@ -1,0 +1,2 @@
+testTweet = this phone has nothing special feature and nothing smartness to express, sentiment = "negative"
+

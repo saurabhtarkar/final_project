@@ -1,0 +1,5 @@
+<nltk.classify.naivebayes.NaiveBayesClassifier object at 0x427dd90>
+**************************
+testTweet = needs so many improvements in this phone, sentiment = 1 t
+
+0.67037037037

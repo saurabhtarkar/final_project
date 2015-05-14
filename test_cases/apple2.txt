@@ -1,0 +1,2 @@
+testTweet = user interface is so fucking bad but microphone is quite robust, sentiment = "positive"
+

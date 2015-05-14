@@ -1,0 +1,2 @@
+testTweet = shamefully they didnt thought about the people who cant understand higher version of english, sentiment = "positive"
+

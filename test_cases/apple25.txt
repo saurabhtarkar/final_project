@@ -1,0 +1,2 @@
+testTweet = spectacular, sentiment = "positive"
+

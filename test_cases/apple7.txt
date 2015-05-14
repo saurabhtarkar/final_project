@@ -1,0 +1,2 @@
+testTweet = very bliss to have this phone, sentiment = "positive"
+

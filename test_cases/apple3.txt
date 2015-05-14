@@ -1,0 +1,2 @@
+testTweet = user interface is so fucking bad and microphone sucks so badly, sentiment = "negative"
+

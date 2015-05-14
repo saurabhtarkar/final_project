@@ -1,0 +1,2 @@
+testTweet = ford should have teamed up with @Apple instead of @microsoft to make this SYNC system in my new focus. , sentiment = "negative"
+

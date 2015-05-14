@@ -1,0 +1,206 @@
+testTweet = I search for regular contributors to post articles regarding the latest news/tips/app of the s5 in our blog #android http://t.co/QYHTKCdTtA, sentiment =  1
+
+testTweet = What's Next ? #Samsung #android #mobile #smartphone #tech #geek #retweet #innovation http://t.co/18Z8iUu5of, sentiment =  1
+
+testTweet = Meet the stylish and powerful, sentiment =  1
+
+testTweet = More pixels. More colors. More entertainment. #GALAXYNote4 #Samsung #android #retweet #mobile #tech #geek http://t.co/qUWKcRUg43, sentiment =  1
+
+testTweet = No festive season is complete without a shiny little number! http://t.co/Qu7H4CHZDz #Samsung #GALAXYAlpha #android http://t.co/nQ5os6yydw, sentiment =  1
+
+testTweet = 1 WANT = 1 RETWEET #GALAXYNoteEdge #Samsung #android #mobile #smartphone #tech #geek #retweet http://t.co/81LQKMGB1w, sentiment =  1
+
+testTweet = As a second canvas for self expression, sentiment =  -1
+
+testTweet = The side screen of #GalaxyNoteEdge continuously displays the most important information for you. #Samsung #android http://t.co/e7hVqcv1bF, sentiment =  1
+
+testTweet = The Quad HD Super AMOLED display on the #GALAXYNote 4 is beyond sweet! Do you agree? #Samsung #tech #geek #retweet http://t.co/oOwLSdVBX4, sentiment =  1
+
+testTweet = #Samsung #GALAXYAlpha with the advanced multi-processing feature: http://t.co/q05bKMRytY #android #mobile #tech #geek http://t.co/FhiLjpO8Pq, sentiment =  1
+
+testTweet = don't worry it's a #Samsung #GalaxyS5 http://t.co/i9ipQP12nB #android #mobile #smartphone #tech #geek #retweet http://t.co/H9cNjxRL35, sentiment =  1
+
+testTweet = Which combination would you most like to have? #Samsung #GALAXYNote4 #android #retweet #mobile #gearS #tech #geek http://t.co/1dlDJwwanZ, sentiment =  1
+
+testTweet = Be the trendsetter with the ultimate style accessory: http://t.co/IpVsSYq1xp #Samsung #GALAXYAlpha #android #geek http://t.co/AYfbARM7sC, sentiment =  1
+
+testTweet = Taking notes takes an altogether different spin with #Samsung #GALAXYNote4 Photo Notes. Have you tried it? #android http://t.co/jVLFEf9QMc, sentiment =  1
+
+testTweet = #Samsung #GALAXYNote4 is just awesome : http://t.co/SXCjlwQOuR #android #retweet #mobile #samsung #tech #geek http://t.co/fVkpn888Lq, sentiment =  1
+
+testTweet = #Samsung #GalaxyS5 with gear fit. http://t.co/RNRAyP7ItZ How many #retweet ? #android #mobile #smartphone #tech #geek http://t.co/JVxCPDEtKt, sentiment =  1
+
+testTweet = It not only glitters, sentiment =  -1
+
+testTweet = If your kid's imagination goes this far, sentiment =  -1
+
+testTweet = It’s not just stylish, sentiment =  -1
+
+testTweet = No matter how you look at it, sentiment =  -1
+
+testTweet = Switch to ultra power saving mode on #Samsung #GALAXYS5 and extend your battery life.http://t.co/4vu7R2lX3H #… http://t.co/OiS1m3roiI, sentiment =  1
+
+testTweet = Classic black or chic white:what’s your #GALAXYS5 style? #Samsung #android #mobile #smartphone #tech #geek #retweet http://t.co/Iu57hm6uxL, sentiment =  1
+
+testTweet = The Galaxy Note Edge , sentiment =  1
+
+testTweet = #GalaxyNote4 #GalaxyS5 #GalaxyAlpha, sentiment =  -1
+
+testTweet = Inside car mode on the #Samsung #GalaxyS5 : http://t.co/l8yT3J7NtU #android #mobile #smartphone #tech #geek #retweet http://t.co/X3FFZS6YbM, sentiment =  1
+
+testTweet = See everything in its true beauty on the Super AMOLED screen of #Samsung #GALAXYAlpha #android #mobile #smartphone http://t.co/FY72i8X5m9, sentiment =  1
+
+testTweet = The Note 4 has many superpowers, sentiment =  -1
+
+testTweet = Revolutionary stylish! #Samsung #GearS redefines the idea of a smart wearable. #samrtwatch #retweet #tech #geek http://t.co/DDaV5ofEu6, sentiment =  1
+
+testTweet = #GALAXYAlpha is not just a pretty face. It comes with a brilliant 4.7-inch HD Super AMOLED display  #android #samsung http://t.co/wjotnVqGUm, sentiment =  1
+
+testTweet = 1 WANT = 1 RETWEET : http://t.co/lJoyyIOpcN #GALAXYNote4 #android #mobile #samsung #tech #geek #retweet http://t.co/wxlg9pYUHm, sentiment =  1
+
+testTweet = Can you name each member of the Galaxy that make up this dream team device? #samsung #mobile #android #quiz #tech http://t.co/H373iROzuO, sentiment =  1
+
+testTweet = Carry the #GALAXYS5 everywhere you go without any worries. Thanks to its Water &amp; Dust resistant feature #android http://t.co/JyJhaWMhwQ, sentiment =  1
+
+testTweet = What’s your go-to device? #Gear2 #GalaxyS5 #GearFit #GalaxyTabS #mobile #android #samsung #tech #smartphone #retweet http://t.co/CufMCieU06, sentiment =  1
+
+testTweet = Upgrade your style with the sleek and slim #GALAXYAlpha, sentiment =  1
+
+testTweet = Let us know what is your best accessory of the day! http://t.co/Q15aWiqncm  #GALAXYAlpha #Samsung #mobile #android http://t.co/ddpaXTYPk1, sentiment =  1
+
+testTweet = #GalaxyS5 Real Results : http://t.co/o6boKiUIAX   #Samsung #mobile #android #geek #tech #retweet #photography http://t.co/W13cMdEB1v, sentiment =  1
+
+testTweet = We’ve come a long way. #GALAXYS5 #Samsung #mobile #android #geek #tech #retweet http://t.co/XzgZhawi52, sentiment =  1
+
+testTweet = "The #GalaxyNote4 is available for sale! http://t.co/yM1d9UKVuo Will you succumb? , sentiment =  1
+
+testTweet = null, sentiment =  -1
+
+testTweet = #GalaxyS5 Vs #iPhone6 Which do you prefer? #mobile #android #ios #apple #samsung #tech #smartphone #retweet http://t.co/irakcl1J1W, sentiment =  1
+
+testTweet = Just alpha : http://t.co/aNW14GUqjx  #GalaxyAlpha #Samsung #mobile #android #geek #tech #retweet http://t.co/T4bMucE1dS, sentiment =  1
+
+testTweet = #GalaxyS5 isn't afraid of water #Samsung #mobile #android #geek #tech #retweet #ip67 http://t.co/e42xW51sKP, sentiment =  1
+
+testTweet = A love letter to our #GALAXYS5. Anyone else feel this way? #Samsung #GalaxyS5? #mobile #android #geek #tech #retweet http://t.co/n3Bo0rSw9B, sentiment =  1
+
+testTweet = Golden sun VS Silver moon http://t.co/5uvV5K2njC #GalaxyAlpha #smartphone #samsung #mobile #android #retweet #versus http://t.co/EYvT3p6cYu, sentiment =  1
+
+testTweet = Retweet if you love The gears #smartwatch #mobile #android #retweet  #Samsung #Gear http://t.co/BKLWGgk4pg, sentiment =  1
+
+testTweet = Style. Slim. Metal. Just Alpha. #GalaxyAlpha http://t.co/aTHUkh3fyD #smartphone #samsung #mobile #android #retweet http://t.co/7rGsUREJZA, sentiment =  1
+
+testTweet = 1 WANT = 1 RETWEET  #android  #smartphone #geek  #samsung #mobile #android #retweet #galaxys5 http://t.co/VBOdPCKTST, sentiment =  1
+
+testTweet = Make it personal with your style: http://t.co/XVPeTVguTj #gearfit #galaxyS5 #smartwatch #mobile #android #retweet http://t.co/yUUvBvagUZ, sentiment =  1
+
+testTweet = Bright displays.Yes, sentiment =  1
+
+testTweet = Exclusive: http://t.co/G5urs2vaoI This is the #Samsung #Galaxy A5 (SM-A500F) #mobile #android #geek #tech #retweet http://t.co/ytAX9iqMoh, sentiment =  1
+
+testTweet = #S5 family is now complete. Which model do you like? #Samsung #GalaxyS5 #mobile #android #geek #tech #retweet http://t.co/ImvUGOXuAZ, sentiment =  1
+
+testTweet = Have you tried Heart Beat Scanner on Your #Samsung #GalaxyS5? #mobile #android #geek #tech #retweet http://t.co/NeQdz6JllR, sentiment =  1
+
+testTweet = Who loves the #Samsung #Gear S ? #Smartwatch #retweet http://t.co/tu9MAUuJS5, sentiment =  1
+
+testTweet = This one’s a toughie- can you find the #GALAXYS5? #mobile #android #geek #tech #retweet #Samsung http://t.co/rWyvXQIowc, sentiment =  1
+
+testTweet = Who &lt;3 's the Galaxy Alpha ? http://t.co/T7aa93V9bD #mobile #android #geek #tech #retweet #news #Samsung #GalaxyAlpha http://t.co/xi4xJfgOFS, sentiment =  1
+
+testTweet = what part is missed ? #Samsung #GalaxyS5 #mobile #android #puzzle #tech #retweet http://t.co/LOtd7lag8z, sentiment =  1
+
+testTweet = What do you think about the #Samsung #GalaxyS5 mini ? #mobile #tech #android #geek #retweet http://t.co/f0Y9uZWJX6, sentiment =  1
+
+testTweet = Welcome to the #Samsung family! What’s on your wish list? or do you prefer the #GalaxyS5 ?? #mobile #android #retweet http://t.co/tQTJUUfwDU, sentiment =  1
+
+testTweet = #Samsung #GalaxyS5  ♥'s creativity : http://t.co/D7wEXQfiuk #mobile #android #geek #tech #retweet http://t.co/TpsD5Otus5, sentiment =  1
+
+testTweet = Long train journey &amp; want to watch something on your #phone? Deploy your #sunglasses like this for an instant stand. http://t.co/S09dnIi3iO, sentiment =  1
+
+testTweet = RETWEET if you find it AWESOME  #galaxyS5 #samsung #android #retweet #mobile #smartphone #gearfit http://t.co/9YoFFdbm7J, sentiment =  1
+
+testTweet = Brrr, sentiment =  -1
+
+testTweet = RETWEET if you're not a morning person either! #Samsung #GalaxyS5 #mobile #android #geek #tech #retweet http://t.co/ovcVGSS92M, sentiment =  1
+
+testTweet = #Samsung #GalaxyAlpha specs : http://t.co/rHRpKvumh4 #mobile #android #geek #tech #retweet #news http://t.co/rG3lEKSwVr, sentiment =  1
+
+testTweet = Say hello to the Galaxy S5 mini :D #Samsung #mobile #android #geek #tech #retweet http://t.co/eqGVZ5Bih7, sentiment =  1
+
+testTweet = The #beach ♥’s the Water Resistant #GALAXYS5!  http://t.co/ePW86Tf1Fp #Samsung #mobile #android #geek #tech #retweet http://t.co/hgxY36Azgj, sentiment =  1
+
+testTweet = 1 RETWEET = 1 WANT : http://t.co/nmyMhXn4M1 #Samsung #GalaxyS5 #mobile #android #news #tech #retweet http://t.co/Gpw6fy0ED0, sentiment =  1
+
+testTweet = The #GalaxyS5 is one of our latest #Android #smartphones: http://t.co/itRDzncUSd Can you name our first? #samsung http://t.co/V7BP8wHYTR, sentiment =  1
+
+testTweet = LOOKING GOOD: Guess which European countries used the #selfie hashtag the most this year. #GalaxyS5  #android  #geek http://t.co/NCv3y1m3OE, sentiment =  1
+
+testTweet = Using the S #Health #app on the #Samsung #GalaxyS5 : http://t.co/XYAMyrZltI #android #mobile  #smartphone #geek http://t.co/SsHlixJEs1, sentiment =  1
+
+testTweet = The water resistant phone : http://t.co/HiRLpDpltT #GalaxyS5 #android #mobile #samsung #tech #smartphone #geek http://t.co/GRKi6D43Nr, sentiment =  1
+
+testTweet = Who will be the fastest to find 7 differences? Go! #galaxyS5 #samsung #android #retweet #mobile #challenge http://t.co/x61iXx46t4, sentiment =  1
+
+testTweet = What about black? http://t.co/34sYiMTf48 #galaxyS5 #samsung #android #retweet #mobile #smartphone http://t.co/TdZgBtllnb, sentiment =  1
+
+testTweet = RETWEET if you find it AWESOME : http://t.co/uLEmEGcIJ6 #galaxyS5 #samsung #android   #retweet #mobile #smartphone http://t.co/ko0gQENTCi, sentiment =  1
+
+testTweet = is it a 5 or an S? ... or both? #galaxyS5 #samsung #android #tech #retweet #mobile #smartphone http://t.co/QT9ltEOpXs, sentiment =  1
+
+testTweet = Uncharged phones are no longer allowed on flights : http://t.co/lXguc2Oo0i  #Samsung #GalaxyS5 #mobile #android #tech http://t.co/0WEVALDdfs, sentiment =  1
+
+testTweet = 1 RETWEET = 1 WANT #Samsung #GalaxyS5 #mobile #android #news #tech #retweet http://t.co/QpnOVYRyWf, sentiment =  1
+
+testTweet = How to use the Heart Rate Monitor on the #GalaxyS5 : http://t.co/q8ODJowOIU #samsung #android #health #tech #tips http://t.co/Qsh4LE0liw, sentiment =  1
+
+testTweet = Picking the perfect flowers. Topping the cake. What moments would you capture on the Big Day? #GALAXYS5 #samsung http://t.co/k9Eih6zD1j, sentiment =  1
+
+testTweet = #GalaxyS5 the #Waterresistant phone : http://t.co/zqirFrZGlU #android #mobile #samsung #tech #smartphone #geek http://t.co/Fq5bXG4PHz, sentiment =  1
+
+testTweet = #GalaxyS5 Vs #iPhone5s , sentiment =  -1
+
+testTweet = Get the same picture as everyone else on vacation, sentiment =  -1
+
+testTweet = How to Customize the #GalaxyS5 Notification Bar : http://t.co/gpQ9w6Xnr2 #samsung #android #mobile #geek #retweet http://t.co/PbP9LtxK87, sentiment =  1
+
+testTweet = A lot of #GalaxyS5 Mobile Phones! http://t.co/k0o306JGhz #samsung #android #mobile #tech #geek #retweet #smartphone http://t.co/kzXcB9Xk2P, sentiment =  1
+
+testTweet = How to Turn Off or Adjust #GalaxyS5 Button Lights : http://t.co/SHxSz4Fq1s #samsung #mobile #android #tips #geek http://t.co/HWSYR6Ew2n, sentiment =  1
+
+testTweet = Being able to use your phone in the kitchen without fear http://t.co/hHTqcE6KAC  #GALAXYS5 #samsung #geek #android http://t.co/itVtytXdte, sentiment =  1
+
+testTweet = 1 RETWEET = 1 WANT #samsung #smartwatch #tech #retweet #geek http://t.co/XPMR5G662E, sentiment =  1
+
+testTweet = Never miss a moment this #summer, sentiment =  -1
+
+testTweet = Pictures of the #premium #Samsung #Galaxy F leak : http://t.co/ubqQZgOSFQ #android #mobile #tech #smartphone http://t.co/YE2buD8okg, sentiment =  1
+
+testTweet = The #GalaxyS5 S #Health app will provide true #motivation needed to hit your goals  #samsung http://t.co/UFeCdtktuC, sentiment =  1
+
+testTweet = The new #Gear #Fit will get your pulse racing. And it will also monitor it. #Samsung #retweet #tech http://t.co/47s6IL1MFj, sentiment =  1
+
+testTweet = #Samsung 's #GalaxyS5 Active Made Official : http://t.co/JDiXbS4Qg5 #mobile #android #news #tech #retweet http://t.co/zdDbvgERfk, sentiment =  1
+
+testTweet = 1 RETWEET = 1 WANT: http://t.co/tEx8Ae8xDi #Samsung #GalaxyS5 #mobile #android #news #tech #retweet http://t.co/cx7HG5ntH6, sentiment =  1
+
+testTweet = 50+ #Samsung #GalaxyS5 #Tips &amp; #Tricks : http://t.co/PZN6U0LpxI #mobile #android #tech #news #smartphone http://t.co/LxPiv3QHtP, sentiment =  1
+
+testTweet = The screen of #GalaxyS5 was designated by experts as the best ever tested : http://t.co/JckIlDPvn2 #mobile #android http://t.co/uXj8W1KuHk, sentiment =  1
+
+testTweet = #Galaxy S5 #prime Exclusive Features : http://t.co/1FcrTE4sjD #samsung #news #tech #geek #android http://t.co/XgvTcIvvm6, sentiment =  1
+
+testTweet = #GearFit OR #Gear2Lite ? #mobile #samsung #android #versus #smartwatch http://t.co/3j0nvXQRvo, sentiment =  1
+
+testTweet = #Samsung #Galaxy S5 #Prime and Active break cover on camera : http://t.co/IcqGZNcRm7 #mobile #android #news #tech http://t.co/UEqQDnrMcO, sentiment =  1
+
+testTweet = Ready to take on the day with Ultra Power Saving Mode:http://t.co/63kmQPtp4T  #Samsung #galaxys5 #android #smartphone http://t.co/u4b7cqfS79, sentiment =  1
+
+testTweet = #Samsung Galaxy S5 Prime To Come In 5 Colors : http://t.co/DRh3JTsfvp #galaxys5 #android #news #smartphone http://t.co/JfRBzSrI8j, sentiment =  1
+
+testTweet = #GalaxyS5 or #GalaxyNote3 ? #mobile #samsung #android #versus http://t.co/2e5nGyo3sK, sentiment =  1
+
+*************
+[' 1', ' 1', ' 1', ' 1', ' 1', ' 1', ' -1', ' 1', ' 1', ' 1', ' 1', ' 1', ' 1', ' 1', ' 1', ' 1', ' -1', ' -1', ' -1', ' -1', ' 1', ' 1', ' 1', ' -1', ' 1', ' 1', ' -1', ' 1', ' 1', ' 1', ' 1', ' 1', ' 1', ' 1', ' 1', ' 1', ' 1', ' 1', ' -1', ' 1', ' 1', ' 1', ' 1', ' 1', ' 1', ' 1', ' 1', ' 1', ' 1', ' 1', ' 1', ' 1', ' 1', ' 1', ' 1', ' 1', ' 1', ' 1', ' 1', ' 1', ' 1', ' -1', ' 1', ' 1', ' 1', ' 1', ' 1', ' 1', ' 1', ' 1', ' 1', ' 1', ' 1', ' 1', ' 1', ' 1', ' 1', ' 1', ' 1', ' 1', ' -1', ' -1', ' 1', ' 1', ' 1', ' 1', ' 1', ' -1', ' 1', ' 1', ' 1', ' 1', ' 1', ' 1', ' 1', ' 1', ' 1', ' 1', ' 1', ' 1', ' 1']
+positive = 0, negative = 0, neutral= 0, irrelavent =0
+

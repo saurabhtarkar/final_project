@@ -1,0 +1,2 @@
+testTweet = edges are so blunt and dumb phone, sentiment = -1 
+

@@ -1,0 +1,2 @@
+testTweet = this phone is winner, sentiment = "negative"
+
